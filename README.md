@@ -2,4 +2,4 @@
 
 # This is the code to get unlimited commits
 ```
-Note: Dont do it to much, your account couod get deleted.
+Note: Dont do it to much, your account could get deleted.
